@@ -13,8 +13,6 @@ import java.util.stream.Stream;
 
 /**
  * This is json stream class.
- * https://spring.io/blog/2016/11/28/going-reactive-with-spring-data
- * https://github.com/MarcoGhise/ReactiveMongoPerformance
  */
 @RestController
 public class HelloController {
